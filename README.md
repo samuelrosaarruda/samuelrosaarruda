@@ -1,5 +1,4 @@
 # :smile: Olá, internautas!
-<img src="https://avatars.githubusercontent.com/u/98216573?s=400&u=234500ba7295c163749c2589c596a71638c49bc8&v=4" width="200px" align="right"><p>
 Meu nome é Samuel da Rosa Arruda, mas pode me chamar de Samuca. Sou um **Desenvolvedor Back-end** em formação, atualmente me especializando por meio do curso de <a href='https://www.cubos.academy/lp/1000bolsasifood'>Desenvolvimento de Software com foco em Back-end</a>, oferecido pelo programa de bolsas gratuitas em parceria com as empresas <a href='https://potenciatech.com.br'>PotenciaTech</a>, <a href='https://www.ifood.com.br/'>iFood</a> e <a href='https://cubos.academy/'>Cubos Academy</a>. 
 #### :mailbox_with_mail: Contatos:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-da-rosa-arruda-1b3676201/)

@@ -1,7 +1,6 @@
-# :smile: Olá, eu sou o Samuel!
+# :smile: Olá, internautas!
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-
+Meu nome é Samuel da Rosa Arruda, mas pode me chamar de Samuca. Sou um desenvolvedor <strong>Back-end</strong> em formação, atualmente me especializando por meio do curso de <a href='https://www.cubos.academy/lp/1000bolsasifood'>Desenvolvimento de Software com foco em Back-end</a>, oferecido pelo programa de bolsas gratuitas em parceria com as empresas <a href='https://potenciatech.com.br'>PotenciaTech</a>, <a href='https://www.ifood.com.br/'>iFood</a> e <a href='https://cubos.academy/'>Cubos Academy</a>. 
 #### :mailbox_with_mail: Contatos:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-da-rosa-arruda-1b3676201/)
 <a href="mailto:arrudarosasamuel@gmail.com">

@@ -1,19 +1,40 @@
-# :smile: Olá, internautas!
-Meu nome é Samuel da Rosa Arruda, mas pode me chamar de Samuca. Sou um **Desenvolvedor Back-end** em formação, atualmente me especializando por meio do curso de <a href='https://www.cubos.academy/lp/1000bolsasifood'>Desenvolvimento de Software com foco em Back-end</a>, oferecido pelo programa de bolsas gratuitas em parceria com as empresas <a href='https://potenciatech.com.br'>PotenciaTech</a>, <a href='https://www.ifood.com.br/'>iFood</a> e <a href='https://cubos.academy/'>Cubos Academy</a>. 
-#### 📬 Contatos:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-da-rosa-arruda-1b3676201/)
-<a href="mailto:arrudarosasamuel@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+# 😄 Olá internautas!
 
+Meu nome é Samuel da Rosa Arruda, mas pode me chamar de Samuca. Sou um desenvolvedor Back-End apaixonado por aprender novas tecnologias e aperfeiçoar minhas habilidades de programação e resolução de problemas. Atualmente estou me expecializado em Front-End para me tornar Full-Stack.
 
+---
 
-#### 💻 Tecnologias e Ferramentas:
+#### 💻 Tecnologias & Ferramentas:
+- **Linguagens:** JavaScript (Node.js)
+- **Frameworks:** Express.js
+- **Banco de Dados:** PostgreSQL
+- **Ferramentas de Versionamento:** Git e GitHub
+- **Outras Ferramentas:** Insomnia e VS Code
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,vscode,git,github)](https://skillicons.dev)<p>
-<a href="https://github.com/samuelrosaarruda?tab=repositories">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelrosaarruda&layout=compact&langs_count=8&card_width=320" />
-</a><p>
-<a href="[https://github.com/samuelrosaarruda?tab=repositories](https://github.com/samuelrosaarruda?tab=repositories)">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=samuelrosaarruda" />
-</a>
+---
+
+#### 🌱 Atualmente Aprendendo:
+- Html / CSS
+- JavaScript voltadado ao Client-Side
+
+---
+
+#### 📈 Objetivos:
+- Contribuir para projetos open-source
+- Colaborar em equipes ágeis e inovadoras
+- Desenvolver sistemas escaláveis e seguros
+
+---
+
+#### 📫 Como me encontrar:
+- [LinkedIn](https://www.linkedin.com/in/samuel-da-rosa-arruda-1b3676201/)
+- [Twitter](https://x.com/Samuel18094515)
+- [Portfolio](https://github.com/samuelrosaarruda?tab=repositories)
+
+---
+
+### "Desenvolvendo o futuro, uma API por vez."
+
+---
+
+Se precisar de algo ou quiser colaborar em algum projeto, não hesite em entrar em contato! 🚀
